@@ -1,4 +1,4 @@
 # wowworth
 My first ecommerce repo.
 <br>
-Author - Anubhav Singh
+Author - Anubhav Singh (New)
